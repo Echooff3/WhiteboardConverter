@@ -1,0 +1,4 @@
+node_modules
+sample*.jpg
+.vscode
+.DS_Store

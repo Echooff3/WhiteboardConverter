@@ -1,0 +1,16 @@
+{
+  "name": "whiteboardconverter",
+  "version": "1.0.0",
+  "description": "Requires node 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js sample.jpg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemagick": "^0.1.3",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
